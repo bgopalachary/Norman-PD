@@ -29,7 +29,7 @@ The job of this function is to fetch a random row from the populated database ta
 
 Assumptions:
 One major assumption i made is the written code will not throw any error for pdfs that are of the same format as that of the pdfs existing in the Norman Police Department website. Any other format might create minor issues. 
-My test cases are based on the assumptions that the given url will be avalilable for a while as my test cases are taking data from the url.
+My test cases are based on the assumptions that the given url will be avalilable for a while as my test cases are taking data from the url.It is hard coded.
 
 Test Cases:
 
