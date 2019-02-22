@@ -48,6 +48,13 @@ In the fourth test, I'm using an sql query to return the values of the table arr
 Test 5:
 In the last and final test, i'm checking to see if the returned value by the function status is a string or not by using the type()==str condition.
 
+References:
+https://www.programiz.com/python-programming/methods/string/join
+https://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php
+https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un
+https://www.stackoverflow.com
+
+
 Packages:
 urllib.request
 PyPDF2
